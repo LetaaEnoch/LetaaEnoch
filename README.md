@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @LetaaEnoch
 - 👀 I’m interested in mobile app development & computer programming
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Flutter!
 - 👨🏽‍🍼 And yes, my father is God.
 
 <!---
